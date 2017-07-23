@@ -8,7 +8,7 @@ numberOfB_Seats * pricePerB_Seat +
 numberOfC_Seats * pricePerC_Seat;
 Write this program, using only one class, the main class of the program.
 */
-package Chapter3;
+package Chapter4;
 import java.util.Scanner;
 /**
  *
